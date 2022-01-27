@@ -10,7 +10,7 @@ A full description will be posted here in the weeks before this workshop.  Tenta
 * An introduction to legal components, automated legal systems, and composable governance.
 * Use Case examples and case studies will include: [IDFederation](https://idfederation.org/wp-content/uploads/2021/06/ID-Federation-Trust-Framework-June-2021-Final.pdf) as an example of an integrated business/legal/technical consortia of companies, and [Fides](https://ethyca.com/fides/), an open-source language for data privacy.
 
-Agenda:
+**Agenda**
 
 12:00p  Welcome and Overview: Dazza Greenwood
 
