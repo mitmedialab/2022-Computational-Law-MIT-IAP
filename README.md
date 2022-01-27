@@ -5,10 +5,9 @@
 * Format: This workshop will be held entirely online
 * Date: Jan 28, 2022, 12:00 - 3:00 PM ET
 
-A full description will be posted here in the weeks before this workshop.  Tentatively, sessions are planned to include:
+The workshop will include three sessions.  Participants are welcome to participate in any one or more of the sessions, depending on their interests.  
 
-* An introduction to legal components, automated legal systems, and composable governance.
-* Use Case examples and case studies will include: [IDFederation](https://idfederation.org/wp-content/uploads/2021/06/ID-Federation-Trust-Framework-June-2021-Final.pdf) as an example of an integrated business/legal/technical consortia of companies, and [Fides](https://ethyca.com/fides/), an open-source language for data privacy.
+The first two sessions will focus on relevant use cases that are important and exist in practice.  These example use case studies include: [IDFederation](https://idfederation.org/wp-content/uploads/2021/06/ID-Federation-Trust-Framework-June-2021-Final.pdf) demonstrating an integrated business/legal/technical system of a consortia of companies, and [Fides](https://ethyca.com/fides/), an open-source platform and language for data privacy as code.
 
 In prep for the computational law workshop session on Fides this Friday, we recommend this blog post describing "privacy as code" in the context of this open source platform: [https://medium.ethyca.com/privacy-as-code-preventing-facebooks-5b-violation-using-fides-open-source-6b1da6508d56](https://medium.ethyca.com/privacy-as-code-preventing-facebooks-5b-violation-using-fides-open-source-6b1da6508d56) 
 
@@ -20,7 +19,8 @@ In prep for the computational law workshop session on Fides this Friday, we reco
 
 1:00p   Case Study on Fides: Cillian Kieran 
 
-2:00p   Composable Governance: Tony Lai, Bryan Wilson, Noah Thorpe, Dazza Greenwood 
+2:00p   Composable Governance: Tony Lai, Bryan Wilson, Noah Thorpe, Dazza Greenwood. 
+
 
 3:00p   Adjourn
 
