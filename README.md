@@ -30,3 +30,7 @@ In prep for the computational law workshop session on Fides this Friday, we reco
 ------------------------
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc_1bvieGZiNNdg0CFsSK7GINi5U66v7Iltgq92rgaEXu7WLQ/viewform?embedded=true" width="640" height="2040" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+-------------------------
+
+This event was conducted in collaboration with [Boston Legal Hackers](https://www.meetup.com/BostonLegalHackers/events/283450075) and [Delhi Legal Hackers](https://twitter.com/Delhihackers)
