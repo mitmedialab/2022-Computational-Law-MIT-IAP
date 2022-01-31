@@ -5,6 +5,9 @@
 * Format: This workshop will be held entirely online
 * Date: Jan 28, 2022, 12:00 - 3:00 PM ET
 
+<img width="597" alt="Screen Shot 2022-01-30 at 7 39 41 PM" src="https://user-images.githubusercontent.com/2357755/151724850-d6bff2df-1e98-4860-b37b-e4fcd99c323e.png">
+
+
 The workshop will include three sessions.  Participants are welcome to participate in any one or more of the sessions, depending on their interests.  
 
 The first two sessions will focus on relevant use cases that are important and exist in practice.  These examples use case studies include: [IDFederation](https://idfederation.org/wp-content/uploads/2021/06/ID-Federation-Trust-Framework-June-2021-Final.pdf) demonstrating an integrated business/legal/technical system of a consortium of companies, and [Fides](https://ethyca.com/fides/), an open-source platform and language for data privacy as code.  The third session will provide an introduction to legal components, automated legal systems, and composable governance.
