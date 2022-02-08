@@ -1,7 +1,6 @@
 # 7th Annual MIT IAP Computational Law Workshop
 
-* Announcement Page:[https://law.mit.edu/learning](https://law.mit.edu/learning)
-* Signup Form: [https://forms.gle/wq9YDiJRW2BPHWxo8](https://forms.gle/wq9YDiJRW2BPHWxo8)
+* Full Content and Video:[https://law.mit.edu/media](https://law.mit.edu/media)
 * Format: This workshop will be held entirely online
 * Date: Jan 28, 2022, 12:00 - 3:00 PM ET
 
@@ -26,11 +25,6 @@ In prep for the computational law workshop session on Fides this Friday, we reco
 
 3:00p   Adjourn
 
-
-------------------------
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc_1bvieGZiNNdg0CFsSK7GINi5U66v7Iltgq92rgaEXu7WLQ/viewform?embedded=true" width="640" height="2040" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
 -------------------------
 
-This event was conducted in collaboration with [Boston Legal Hackers](https://www.meetup.com/BostonLegalHackers/events/283450075) and [Delhi Legal Hackers](https://twitter.com/Delhihackers)
+This MIT event was conducted in collaboration with [Boston Legal Hackers](https://www.meetup.com/BostonLegalHackers/events/283450075) and [Delhi Legal Hackers](https://twitter.com/Delhihackers)
