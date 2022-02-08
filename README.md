@@ -1,7 +1,7 @@
 # 7th Annual MIT IAP Computational Law Workshop
 
 * Full Content and Video:[https://law.mit.edu/media](https://law.mit.edu/media)
-* Format: This workshop will be held entirely online
+* Format: This workshop was held entirely online
 * Date: Jan 28, 2022, 12:00 - 3:00 PM ET
 
 <img width="597" alt="Screen Shot 2022-01-30 at 7 39 41 PM" src="https://user-images.githubusercontent.com/2357755/151724850-d6bff2df-1e98-4860-b37b-e4fcd99c323e.png">
